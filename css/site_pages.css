@@ -9231,5 +9231,8 @@ li ul.watchList {top: 30px;}
 .search_results .boxsitepagebody .location_heading h3:after {content: " Based on Postal Code";}
 /*END PUNCHLIST ITEMS FIXED - BZ 2/20/17*/
 
-
+/*PAG Group Styling Issues - Zippe 3/9/17*/
+.reviewsItemsList li span {display: block;}
+#topicList .topic-list-reply {margin-bottom: 2em;float: left;width: 100%;}
+/**/
 
