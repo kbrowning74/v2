@@ -5108,6 +5108,12 @@ ul.actionList li.resolve-post a:hover {
 	background-size: contain;
 }
 
+#user_badge_311 {	
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/bbcon-2017-attend-sm.png") !important;
+}
+#user_badge_310 {
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/bbcon-2017-speaker-sm.png") !important;
+}
 #user_badge_261 {	
 	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/bbcon-attendee.png") !important;
 }
