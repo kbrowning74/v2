@@ -6202,9 +6202,7 @@ ul#upcomingEvents.eventsItemsList {
 	;
 }
 .page_10173 #field_21, .page_10164 #field_22, .page_10174 #field_31, .page_10181 #field_40, .page_2072 #field_40, .page_2070 #field_40, .page_10201 #field_113, .page_10243 #field_40 {
-   position: absolute;
-   top: -9999px;
-   left: -9999px;
+   visibility: hidden
 }
 .page_10181 .search-filter-title, .page_2072 .search-filter-title, .page_2070 .search-filter-title, .page_2070 .filter_name.all, .page_2072 .filter_name.all, .page_10208 .filter_name.all, .page_10208 .search-filter-title, .page_10205 .search-filter-title {
 	display: none;
