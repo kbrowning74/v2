@@ -6213,7 +6213,7 @@ ul#upcomingEvents.eventsItemsList {
 .page_10181 .search_results .input_text_field, .page_10232 .search_results .input_text_field, .page_10231 .search_results .input_text_field, .page_10243 .search_results .input_text_field {
 	width: 654px;
 }
-.page_10181 .layout_75_25_sub_column_1_options, .page_10208 .layout_75_25_sub_column_1_options, .page_10232 .layout_75_25_sub_column_1_options, .page_10231 .layout_75_25_sub_column_1_options, .page_10243 .layout_75_25_sub_column_1_options, .page_10214 .layout_75_25_sub_column_1_options, .page_10382 .layout_75_25_sub_column_1_options {
+.page_10181 .layout_75_25_sub_column_1_options, .page_10208 .layout_75_25_sub_column_1_options, .page_10232 .layout_75_25_sub_column_1_options, .page_10231 .layout_75_25_sub_column_1_options, .page_10243 .layout_75_25_sub_column_1_options, .page_10214 .layout_75_25_sub_column_1_options {
 	float: left !important;
 	width: 703px !important;
 	margin-left: 20px !important;
@@ -9245,5 +9245,13 @@ li ul.watchList {top: 30px;}
 /*PAG Group Styling Issues - Zippe 3/9/17*/
 .reviewsItemsList li span {display: block;}
 #topicList .topic-list-reply {margin-bottom: 2em;float: left;width: 100%;}
+/**/
+
+/*Auto Search Block Styling Issues - MM 5/19.17*/
+.page_10155 .layout_75_25_sub_column_1
+{
+	float:none !important;
+	width:100% !important	
+}
 /**/
 
