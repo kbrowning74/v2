@@ -6977,7 +6977,7 @@ ul.folder-list li.folder {
 }
 .userRemove a {
 	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/delete-gray.png") !important;
-    display: inline-block;
+    display: inline-block !important;
     margin-top: .5em;
 }
 /* UPDATED TABS */
