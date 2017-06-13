@@ -6976,7 +6976,7 @@ ul.folder-list li.folder {
 	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/send_email.png") !important;
 }
 .userRemove a {
-	background: url("https://static.smallworldlabs.com/blackbaud/content/swl/delete-gray.png")no-repeat !important;
+    background: url("https://static.smallworldlabs.com/blackbaud/content/swl/delete-gray.png") no-repeat !important;
     display: inline-block !important;
     margin-top: .5em;
 }
