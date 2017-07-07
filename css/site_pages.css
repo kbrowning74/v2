@@ -9257,3 +9257,11 @@ li ul.watchList {top: 30px;}
 }
 /**/
 
+/*Member Leaderboard Edits - MM 7.7.17*/
+.page_10441 .users_all_users_by_points .imageMediumSquare img {
+	width: auto !important;
+}
+.page_10441 div.user-list div.user-list-item.hoverBox {
+	width: auto !important;
+}
+/**/
