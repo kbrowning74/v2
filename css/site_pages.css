@@ -9279,3 +9279,9 @@ li ul.watchList {top: 30px;}
 .page_2008 #module_0-3 .html_button_plain, .page_2008 #module_0-4 .html_button_plain {float: left;margin-left: 1em;}
 
 /*End BBCRM PAG Group Edits*/
+
+/*BB CRM Group 21 Directory Edits - MM 9.26.17*/
+.page_2073 #formField_textField_491, 
+.page_2073 .pageLinks,
+.page_2073 .reviews_associate_photos {display: none;}
+/*END BBCRM Group 21 Directory Edits - MM 9.26.17*/
