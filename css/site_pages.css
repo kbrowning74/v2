@@ -9284,4 +9284,15 @@ li ul.watchList {top: 30px;}
 .page_2073 #formField_textField_491, 
 .page_2073 .pageLinks,
 .page_2073 .reviews_associate_photos {display: none;}
+
+.page-urlp-group_id_21 li#field_491 {
+	height: 0;
+	background-color: transparent !important;
+	color: transparent;
+}
+
+.page-urlp-group_id_21 input#textField_491 {
+	height: 0 !important;
+	color: transparent !important;
+}
 /*END BBCRM Group 21 Directory Edits - MM 9.26.17*/
