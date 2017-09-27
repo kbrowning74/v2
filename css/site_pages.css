@@ -7226,13 +7226,6 @@ div.topic-list-action-container {
 .content_selector.active .input_checkbox > label {
 	display: none;
 }
-.page_2073 #reviews_item_form > div.input_radio {
-	visibility: hidden;
-}
-
-.page-urlp-group_id_7 #reviews_item_form > div.input_radio {
-	visibility: visible !important;	
-}
 
 .page_2073 .layout_75_25 .site_page_column_0 {
 	width: 75% !important;
@@ -9204,12 +9197,6 @@ div.photoGrid img.photo_0 {
 	height: 0 !important;
 	color: transparent !important;
 }
-
-.page-urlp-category_id_41 #reviews_item_form > div:nth-child(7), .page-urlp-category_id_32 #reviews_item_form > div.input_radio {
-	display: none !important;	
-}
-
-
 
 /*PUNCHLIST ITEMS FIXED - BZ 2/20/17*/
 /*search margin fix*/
