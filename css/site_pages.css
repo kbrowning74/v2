@@ -2946,9 +2946,9 @@ a#headerMyAccountLink {
 	margin-top: 0px;
 }
 
-.group_nav_tasks span{display: none;}
+li.group_nav_tasks span{display: none;}
 
-.group_nav_tasks span:after{content: "Directory";}
+li.group_nav_tasks:after{content: "Directory";}
 
 /* Global Comments */
 ul li.watch {
