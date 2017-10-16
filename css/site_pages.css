@@ -2945,6 +2945,11 @@ a#headerMyAccountLink {
 	color: #505b60;
 	margin-top: 0px;
 }
+
+.group_nav_tasks a{display: none;}
+
+.group_nav_tasks a:after{content: "Directory";}
+
 /* Global Comments */
 ul li.watch {
 	background: none !important;
