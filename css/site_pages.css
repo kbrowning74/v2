@@ -9291,7 +9291,7 @@ li ul.watchList {top: 30px;}
 	display: none !important;
 }
 /*Change Blog Title in Group 26 Nav*/
-.page-urlp-group_id_26.group_nav_blogs a:before {
+.page-urlp-group_id_26 .group_nav_blogs a:before {
 	content: "Announcements ";
 }
 /*Layout fixes for moving LO PAG Button to be inline*/
