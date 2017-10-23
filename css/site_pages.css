@@ -2946,10 +2946,6 @@ a#headerMyAccountLink {
 	margin-top: 0px;
 }
 
-.group_nav_tasks span{display: none;}
-
-.group_nav_tasks span:after{content: "Directory";}
-
 /* Global Comments */
 ul li.watch {
 	background: none !important;
