@@ -9261,7 +9261,7 @@ li ul.watchList {top: 30px;}
 .page-urlp-group_id_21 .group_nav_blogs a:before {
 	content: "Announcements ";
 }
-/*Layout fixes for moving HE PAG Button to be inline*/
+/*Layout fixes for moving BBCRM PAG Button to be inline*/
 .page_2008 .site_page_module.search_results {clear: both;}
 .page_2008 #module_0-3, .page_2008 #module_0-4 {clear: none;overflow:visible;}
 .page_2008 #module_0-3 .html_button_plain, .page_2008 #module_0-4 .html_button_plain {float: left;margin-left: 1em;}
@@ -9284,3 +9284,19 @@ li ul.watchList {top: 30px;}
 	color: transparent !important;
 }
 /*END BBCRM Group 21 Directory Edits - MM 9.26.17*/
+
+/*LO PAG Group 26 Updates - MM 10.23.17*/
+/*Hide Files Videos Photos from Group 26 Nav*/
+.page-urlp-group_id_26 .group_nav_files, .page-urlp-group_id_26 .group_nav_photos, .page-urlp-group_id_26 .group_nav_videos {
+	display: none !important;
+}
+/*Change Blog Title in Group 26 Nav*/
+.page-urlp-group_id_26.group_nav_blogs a:before {
+	content: "Announcements ";
+}
+/*Layout fixes for moving LO PAG Button to be inline*/
+.page_2008 .site_page_module.search_results {clear: both;}
+.page_2008 #module_0-6, .page_2008 #module_0-7 {clear: none;overflow:visible;}
+.page_2008 #module_0-6 .html_button_plain, .page_2008 #module_0-7 .html_button_plain {float: left;margin-left: 1em;}
+
+/*End LO PAG Group 26 Updates - MM 10.23.17*/
