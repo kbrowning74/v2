@@ -9300,6 +9300,10 @@ li ul.watchList {top: 30px;}
 .page_2008 #module_0-6 .html_button_plain, .page_2008 #module_0-7 .html_button_plain {float: left;margin-left: 1em;}
 
 /*Hide LO PAG Directory Field*/
+.page_2073 #formField_textField_531, 
+.page_2073 .pageLinks,
+.page_2073 .reviews_associate_photos {display: none;}
+
 .page-urlp-group_id_26 li#field_531 {
 	height: 0;
 	background-color: transparent !important;
