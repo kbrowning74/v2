@@ -5152,7 +5152,7 @@ ul.actionList li.resolve-post a:hover {
 	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/RP.png") !important;
 }
 #user_badge_153 {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/Advisor-badge-medal.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/Advisor-badge-medal.png") !important;
 }
 
 #user_badge_270 {
@@ -5160,13 +5160,15 @@ ul.actionList li.resolve-post a:hover {
 }
 
 #user_badge_271 {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/FE_Pro_16x16.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/FE_Pro_16x16.png") !important;
 }
 
 #user_badge_272 {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/Altru_16x16.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/Altru_16x16.png") !important;
 }
-
+#user_badge_402 {
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/NXT_64x64.png") !important;
+}
 .recent_topic_reply_avatar .user-info-container {
 	width: 50px;
 }
